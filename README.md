@@ -1,16 +1,14 @@
-## Hi there 👋
+# Laurits | Datamatikerstuderende
 
-<!--
-**LauritsVN/LauritsVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jeg er en fullstack-udvikler med et fokus på backend. Jeg har en stor interesse for systemarkitektur, distribuerede systemer og datasikkerhed, og jeg trives med at løse komplekse logik-udfordringer, samt se det færdige resultat.
 
-Here are some ideas to get you started:
+### Tekniske Kompetencer
+* **Backend:** C#, .NET Core, Java, REST API design
+* **Frontend:** HTML, CSS, JavaScript, ASP.NET MVC
+* **Database:** MSSQL, ADO.NET, Entity Framework, Transaktionsstyring
+* **Arkitektur:** N-tier (5-lag), Clean Architecture, Design Patterns
+* **Infrastruktur:** Docker, JWT-autentificering, Hashing/Salting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
