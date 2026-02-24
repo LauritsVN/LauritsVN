@@ -1,6 +1,6 @@
 # Hej, jeg er Laurits 👋
 
-**Datamatiker-studerende @ UCN (4. semester)**
+**Datamatiker-studerende UCN (4. semester)**
 Jeg søger en spændende praktikplads i Aalborg-området med start august 2026.
 
 ### Om mig
