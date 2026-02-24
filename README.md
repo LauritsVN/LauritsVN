@@ -13,10 +13,10 @@ Jeg brænder for at bygge robuste og skalerbare løsninger. Min styrke ligger i 
 
 ---
 
-### 📈 Fokus lige nu
+### Fokus lige nu
 Jeg arbejder i øjeblikket på en AI-drevet **MoviePicker**, hvor jeg udforsker integrationen mellem .NET backends og LLM-API'er.
 
-[LinkedIn-ikon] [Dit Link] | [Mail-ikon] [Din Mail]
+ www.linkedin.com/in/laurits-nielsen | laur.nielsen@gmail.com
 
 
 
