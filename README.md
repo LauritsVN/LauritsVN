@@ -1,13 +1,22 @@
-# Laurits | Datamatikerstuderende
+# Hej, jeg er Laurits 👋
 
-Jeg er en fullstack-udvikler med et fokus på backend. Jeg har en stor interesse for systemarkitektur, distribuerede systemer og datasikkerhed, og jeg trives med at løse komplekse logik-udfordringer, samt se det færdige resultat.
+**Datamatiker-studerende @ UCN (4. semester)**
+Jeg søger en spændende praktikplads i Aalborg-området med start august 2026.
 
-### Tekniske Kompetencer
-* **Backend:** C#, .NET Core, Java, REST API design
-* **Frontend:** HTML, CSS, JavaScript, ASP.NET MVC
-* **Database:** MSSQL, ADO.NET, Entity Framework, Transaktionsstyring
-* **Arkitektur:** N-tier (5-lag), Clean Architecture, Design Patterns
-* **Infrastruktur:** Docker, JWT-autentificering, Hashing/Salting
+### Om mig
+Jeg brænder for at bygge robuste og skalerbare løsninger. Min styrke ligger i backend-udvikling med **C#** og **Java**, men jeg trives også med at bygge moderne frontends i **React**. Jeg har en struktureret tilgang til data og arbejder godt med **MSSQL**.
+
+-  **Primær Stack:** C#, .NET, Java, MSSQL
+-  **Web:** HTML, CSS, JavaScript, React
+-  **Interesser:** API-arkitektur, AI-integrationer og Clean Code
+-  **Lokation:** Aalborg
+
+---
+
+### 📈 Fokus lige nu
+Jeg arbejder i øjeblikket på en AI-drevet **MoviePicker**, hvor jeg udforsker integrationen mellem .NET backends og LLM-API'er.
+
+[LinkedIn-ikon] [Dit Link] | [Mail-ikon] [Din Mail]
 
 
 
