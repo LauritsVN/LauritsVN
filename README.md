@@ -1,23 +1,24 @@
-# Hej, jeg er Laurits 👋
+# Hej, jeg er Laurits
 
-**Datamatiker-studerende UCN (4. semester)**
-Jeg søger en spændende praktikplads i Aalborg-området med start august 2026.
+**Datamatiker fra UCN (januar 2027) · Ledig fra februar 2027**
 
-### Om mig
-Jeg brænder for at bygge robuste og skalerbare løsninger. Min styrke ligger i backend-udvikling med **C#** og **Java**, men jeg trives også med at bygge moderne frontends i **React**. Jeg har en struktureret tilgang til data og arbejder godt med **MSSQL**.
+Jeg bygger robuste og skalerbare løsninger med fokus på backend. Jeg har praktikerfaring fra Solita, hvor jeg arbejdede med caching, performance og test i et eksisterende .NET-system.
 
--  **Primær Stack:** C#, .NET, Java, MSSQL
--  **Web:** HTML, CSS, JavaScript, React
--  **Interesser:** API-arkitektur, AI-integrationer og Clean Code
--  **Lokation:** Aalborg
+- **Primær stack:** C#, .NET, ASP.NET, SQL (MSSQL), Java
+- **Cloud og værktøjer:** Azure, Azure DevOps, Redis, Docker, Git
+- **Web:** HTML, CSS, JavaScript, React
+- **Interesser:** API-arkitektur, performanceoptimering og AI-integrationer
+- **Lokation:** Aalborg
 
 ---
 
-### Fokus lige nu
-Jeg arbejder i øjeblikket på en AI-drevet **MoviePicker**, hvor jeg udforsker integrationen mellem .NET backends og LLM-API'er.
+### Projekter
 
- www.linkedin.com/in/laurits-nielsen | laur.nielsen@gmail.com
+- **[MovieFinder](https://github.com/LauritsVN/MovieFinder):** Fullstack webapp, der kombinerer et eksternt film-API med LLM-genererede anbefalinger (C#, .NET, React, SQL). Under udvikling.
 
+---
+
+[LinkedIn](https://www.linkedin.com/in/laurits-nielsen-77203a178) | laur.nielsen@gmail.com
 
 
 
